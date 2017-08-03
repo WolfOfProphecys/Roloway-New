@@ -1,0 +1,59 @@
+#social {
+  background-color: #e6ffe6;
+}
+
+#titlerolo h1 {
+  color: #000000;
+  font-family: script;
+  font-size: 100px;
+  text-align:center;
+  padding-top:5px;
+}
+
+#titlerolo {
+  background-color: #A4EBE7 !important
+}
+
+#sitelinks {
+  background-color: #e6ffe6;
+  text-align: right;
+}
+
+#titlerolo {
+  background-image: url("../images/background.jpeg");
+}
+
+body {
+  background-color: #e6ffe6;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: script;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: script;
+}
+
+#bottomhalf {
+  background-color: #e6ffe6;
+  font-family: script;
+}
+
+#bottomhalf p {
+  text-align: center;
+  font-family: script;
+  font-size: 20px;
+}
+
+#info p {
+  text-align: center;
+  font-family: script;
+  font-size: 20px;
+  padding-right:200px;
+  padding-left: 200px;
+}
