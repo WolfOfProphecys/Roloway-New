@@ -75,7 +75,7 @@ fieldset {
 #contact textarea {
 	height:100px;
 	max-width:100%;
-  resize:none;
+	resize:none;
 }
 
 #contact button[type="submit"] {
@@ -103,39 +103,39 @@ fieldset {
 	border:1px solid #999;
 }
 ::-webkit-input-placeholder {
- color:#888;
+	color:#888;
 }
 :-moz-placeholder {
- color:#888;
+	color:#888;
 }
 ::-moz-placeholder {
- color:#888;
+	color:#888;
 }
 :-ms-input-placeholder {
- color:#888;
+	color:#888;
 }
 
 #social {
-  background-color: #e6ffe6;
+	background-color: #e6ffe6;
 }
 
 #titlerolo h1 {
-  color: #000000;
-  font-family: script;
-  font-size: 100px;
-  text-align:center;
-  padding-top:5px;
+	color: #000000;
+	font-family: script;
+	font-size: 100px;
+	text-align:center;
+	padding-top:5px;
 }
 
 #titlerolo {
-  background-color: #A4EBE7 !important
+	background-color: #A4EBE7 !important
 }
 
 #sitelinks {
-  background-color: #e6ffe6;
-  text-align: right;
+	background-color: #e6ffe6;
+	text-align: right;
 }
 
 #titlerolo {
-  background-image: url("../images/background.jpeg");
+	background-image: url("../images/background.jpeg");
 }
